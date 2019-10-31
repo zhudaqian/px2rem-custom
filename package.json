@@ -1,0 +1,28 @@
+{
+  "name": "custom-postcss-px2rem",
+  "description": "Postcss version of px2rem",
+  "version": "0.1.0",
+  "homepage": "https://github.com/zhudaqian/px2rem-postcss-custom.git",
+  "author": "zqq",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zhudaqian/px2rem-postcss-custom.git"
+  },
+  "dependencies": {
+    "postcss": "^5.0.0",
+    "px2rem": "~0.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.1.0",
+    "autoprefixer": "^6.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "main": "index.js",
+  "keywords": [
+    "px2rem",
+    "postcss-plugin"
+  ],
+  "license": "MIT"
+}
