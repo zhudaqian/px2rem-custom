@@ -1,12 +1,12 @@
 {
-  "name": "custom-postcss-px2rem",
+  "name": "px2rem-custom",
   "description": "Postcss version of px2rem",
   "version": "0.1.0",
-  "homepage": "https://github.com/zhudaqian/px2rem-postcss-custom.git",
+  "homepage": "https://github.com/zhudaqian/px2rem-custom.git",
   "author": "zqq",
   "repository": {
     "type": "git",
-    "url": "git@github.com:zhudaqian/px2rem-postcss-custom.git"
+    "url": "git@github.com:zhudaqian/px2rem-custom.git"
   },
   "dependencies": {
     "postcss": "^5.0.0",
